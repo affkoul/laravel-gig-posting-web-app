@@ -38,4 +38,4 @@ Mac Users Guide (for I am on developing on a Mac)
 
 Laravel Gig Posting Web App by [GAC DEV](https://geniusandcourage.com)
 
-![Laravel Gig Posting Web App](https://hlwsdtech.com/jobboard/laravel-job-board.png)
+![Laravel Gig Posting Web App](https://hlwsdtech.com:8081/images/laravel-job-board.png)
